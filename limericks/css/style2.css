@@ -1,0 +1,32 @@
+h1
+{
+     font-style: italic;
+     padding-top: 50px;
+ }
+
+
+.title     
+{
+  font-weight: bold;
+ }
+p
+{
+  font-size: 45px;
+ }
+#theend
+{
+  color: cyan;
+ }
+body {
+  background-color: rgb(0, 0, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+div{
+      padding-top: 50px;
+      margin-left: 80px;
+      background-color: aqua;
+      border: 10px solid black;
+  }
+
+  
