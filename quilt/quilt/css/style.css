@@ -1,0 +1,44 @@
+* body , html { 
+    height: 100%;
+    width: 100%; 
+  }
+  .box1 {
+    background-color:lightblue;
+    padding-top: 10%;
+    width: 100px;;
+    height: 200px;
+    float:left;
+  }
+  .box2 {
+    background-color:orange;
+    width:5%;
+    height: 100px;
+    float:right;
+  }
+  
+  .box3 {
+    background-color:rebeccapurple;
+    width:2%;
+    height:35px;
+    float:left;
+  }
+  
+  .box4 {
+    background-color:red;
+    width:5%;
+    height:55px;
+    float:left;
+  }
+  
+  .box5 {
+    background-color:yellowgreen;
+    width:30%;
+    height:77px;
+    float:left;
+  }
+  .box6 {
+    background-color:greenyellow;
+    width:5%;
+    height:100px;
+    float:left;
+  } 
